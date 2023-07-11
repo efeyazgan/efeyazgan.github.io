@@ -1,13 +1,29 @@
 ---
 layout: page
-title: Neutron Stars, Supernovae, and Supernova Remnants
-description: 
-img: assets/img/NSaSR_cut.jpg
+title: Anomalous X-ray Pulsars, Soft Gamma Reperaters, Magnetars
+description: Cover picture NASA/CXC/INAF/F. Coti Zelati et al., Public domain, via Wikimedia Commons
+img: assets/img/Magnetar-SGR1745-2900-20150515.jpg
 importance: 1
 category: astrophysics
 ---
 
 
+List of works related to Anomalous X-ray Pulsars, Soft Gamma Reperaters, Magnetars:
+
+* M.A. Alpar, A. Ankay, E. Yazgan (2001) "Pulsar Spin-Down by a Fallback Disk and the $$ P-\dot{P} $$ Diagram" <a href="https://iopscience.iop.org/article/10.1086/323140/meta"> The Astrophysical Journal Letters 557 L61 </a>.
+* E. Yazgan (2002) <a href="https://zenodo.org/record/4275295"> "Comparison of the Models to Explain Anomalous X-ray Pulsars and Soft Gamma Repeaters" </a> Presentation at the Summer School on Neutrino Physics and Astrophysics, Feza Gursey Institute, Istanbul, Turkey.
+* O.H. Guseinov, E. Yazgan, A. Ankay, S. Tagieva (2003), "On Period and Burst Histories of AXPs and SGRs and the Possible Evolution of these Objects on the $$ P-\dot{P} $$ Diagram" <a href="https://doi-org/10.1142/S0218271803002469"> International Journal of Modern Physics D Vol. 12, No. 01, pp. 1-34 </a>.
+* S.O. Tagieva, E. Yazgan, A. Ankay, (2003) "Do Young Neutron Stars Which Show Themselves as AXPs and SGRs Accrete?", <a href="https://ui.adsabs.harvard.edu/abs/2003IJMPD..12..825T/abstract"> International Journal of Modern Physics D, Volume 12, Issue 05, pp. 825-831 </a>.
+* O.H. Guseinov, O. Taskin, E. Yazgan, S.O. Tagieva (2003) "Removal of the Difference Between Characteristic and Real Age in the Magnetar Model from the Analysis of Spectral Properties of AXPs, SGRs and DRQNSs" <a href="https://ui.adsabs.harvard.edu/abs/2003IJMPD..12.1333G/abstract"> International Journal of Modern Physics D, Volume 12, Issue 08, pp. 1333-1362 </a>.
+*  A. Ankay, S. Sahin, G. Karanfil, E. Yazgan (2005) "Early Phases of Different Types of Isolated Neutron Star" <a href="https://ui.adsabs.harvard.edu/abs/2005IJMPD..14.1075A/abstract"> International Journal of Modern Physics D, Volume 14, Issue 06, pp. 1075-1082 </a>.
+* E. Yazgan, O.H. Guseinov, A. Ankay, O. Taskin, and S.O. Tagieva (2005) "Analysis of Fall-Back Disk and Magnetar Models of Anomalous X-Ray Pulsars and Soft Gamma Repeaters" <a href="https://ui.adsabs.harvard.edu/#abs/2005pnsr.conf..119Y/abstract"> Progress in Neutron Star Research </a>. Edited by Andrew P. Wass. QC173.7.T74 530.14'072--dc22; 2004024758; ISBN 1-59454-351-8 (hardcover). Published by Nova Science Publishers, Inc., New York, NY USA, 2005, p.119
+* O.H. Guseinov, E. Yazgan, A. Ankay (2007) "Neutron Stars, Supernovae and Supernova Remnants" <a href="https://ui.adsabs.harvard.edu/abs/2007nssn.book.....G/abstract"> Neutron Stars, Supernovae and Supernova Remnants </a> Edited by Oktay H.Guseinov, Efe Yazgan and Askin Ankay. Nova Science Publishers, New York, 2007. ISBN 978-1-60021-548-3.
+* E. Yazgan (2007) "Core Collapse Supernovae" <a href="https://ui.adsabs.harvard.edu/abs/2007nssn.book...43Y/abstract"> in Neutron Stars, Supernovae and Supernova Remnants </a> Edited by Oktay H.Guseinov, Efe Yazgan and Askin Ankay. Nova Science Publishers, New York, 2007. ISBN 978-1-60021-548-3.
+
+
+
+
+<!---
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/NSaSR.jpg' | relative_url }}" alt="" title="example image"/>
@@ -19,14 +35,9 @@ category: astrophysics
 <div class="caption">
 </div>
 
-   "In the 1930s, scientists discovered that the universe is expanding and that it is quite old. The observation of hydrogen lines in the spectrum of the sun helped Niels Bohr construct his atomic model in 1912, and understand the optical spectra of atoms. This era marked the transition of astronomy into astrophysics. With the rapid technological progress, scientists were able to study the universe in different ways that enabled them to observe what could not be observed using ordinary telescopes. Technology enabled scientists to see the universe in x-rays, gamma rays, radio waves and even look inside stars with neutrinos. One of the most important results of these developments, the observation of very high energy particles from cosmic distances, led to a complete new branch of physics, namely high energy physics, and provided a valuable tool to understand the very high energy processes going on in the universe such as in shock fronts of supernova remnants. In the 1960s, very important discoveries in astrophysics like the microwave background radiation from the Big Bang, quasars, X-ray binaries, pulsars and cosmic X-ray sources followed. work on these new objects and processes. Among many great physicists, Yakov B. Zeldovich and Igor D. Novikov are worth noting especially because of their efforts which accelerated the theoretical and phenomenological researches in all of these branches of astrophysics. Astrophysics began to push the boundaries of physics and our world view. Astrophysical results were rewarded with Nobel prizes. Three of these Nobel prizes (1974, 1993, 2002) were given to works on neutron stars. This book is mainly devoted to neutron stars and to objects related to them." 
-
-[At amazon.com](https://www.amazon.com/Neutron-Stars-Supernovae-Supernova-Remnants/dp/1600215483/ref=sr_1_1?crid=3IOBGYHGC3C6U&keywords=%22efe+yazgan%22&qid=1641462034&sprefix=efe+yazgan+%2Caps%2C164&sr=8-1)
-
-[At amazon.fr](https://www.amazon.fr/Neurtrons-Stars-Supernovae-Supernova-Remnants/dp/1600215483/ref=sr_1_1?__mk_fr_FR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=31TJKO7OZYSA5&keywords=efe+yazgan&qid=1641460245&sprefix=efe+yazgan%2Caps%2C95&sr=8-1)
 
 
-<!---
+
 Every project has a beautiful feature showcase page.
 It's easy to include images in a flexible 3-column grid format.
 Make your photos 1/3, 2/3, or full width.
@@ -79,6 +90,7 @@ You describe how you toiled, sweated, *bled* for your project, and then... you r
 <div class="caption">
     You can also have artistically styled 2/3 + 1/3 images, like these.
 </div>
+
 
 
 The code is simple.
