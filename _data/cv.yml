@@ -128,8 +128,8 @@
     - year: 2004
       items:
         - Ph.D. Scholarship (BDP) from the Scientific and Technical Research Council of Turkey (TUBITAK)
-    - year: M.Sc. basic sciences scholarship from TUBITAK
-        - 2000 - 2002
+    - year: 2000 - 2002
+        - M.Sc. basic sciences scholarship from TUBITAK
 
 - title: Reviewer, Committees, Consultant/Scientific Advisory, Conference and Workshop tasks
   type: time_table
@@ -177,28 +177,56 @@
         - Scientific advisor for the turkish translation of the book Albert Einstein and Relativity for Kids
     - year: 2013
       items:
-        - Operations research committee member for Izmir High Energy Physics Workshop; New Physics at the LHC and Turkey-CERN relations 
+        - Operations research committee member for Izmir High Energy Physics Workshop; New Physics at the LHC and Turkey-CERN relations
+  
+- title: Additional Funding/Projects
+  type: time_table
+  contents:
+    - year: 2021 - 2023
+      items:
+        - Principal Investigator of Search for new Yukawa couplings at the LHC with heavy quarks, Taiwan Ministry of Science and Technology Grant 110-2112-M-002-017
+    - year: 2018 - 2021
+      items:
+        - MC Observer to COST Action Vector Boson Scattering Action Network COST Action CA16108 representing Institute of High Energy Physics, Chinese Academy of Sciences
+    - year: 2015 - 2018
+      items:
+        - Consultant for Free electron distribution in the Galaxy, distances to pulsars and magnetic fields of neutron stars, TUBITAK
+    - year: 2014 - 2017
+      items:
+        - Researcher for Electroweak and standard model physics analyses with CMS data in Precision measurements of the standard model and searches for beyond standard model physics and supersymmetry, TAEA
+    - year: 2004
+      items:
+        - Assistant Researcher in Carbon nanotoroid and nanohelix cage structures; mechanical and electronic properties, METU, BAP-2004-07-02-00-35
        
-
+- title: Shifts in CMS at CERN
+    - year: 2009 - 2019
+      items:
+        - Data Quality Monitoring (DQM) Expert-On-Call
+    - year: 2007 - 2009
+      items:
+        - Hadron Calorimeter (HCAL)
+        
 - title: Education
   type: time_table
   contents:
     - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+      institution: METU, Ankara, with Host Laboratory Fermilab, Batavia, IL, USA
+      year: 2007
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+        - Search for a Standard Model Higgs boson in CMS via vector boson fusion in the H->WW->lvlv channel and optimization of energy reconstruction in CMS using test beam 2006 data
+
+    - title: MSc
+      institution: METU, Ankara
+      year: 2002
       description:
-        - Description 1.
-        - Description 2.
+        - Timing Characteristics of Intermediate Polar Type Cataclysmic Variables and Detailed Data Analysis on YY Draconis
+
+    - title: BSc
+      institution: METU, Ankara
+      year: 2000
+      description:
+        - Special undergraduate advanced physics program
+
 
 - title: Other Interests
   type: list
