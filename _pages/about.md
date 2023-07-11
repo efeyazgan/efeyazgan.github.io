@@ -18,16 +18,17 @@ news: false  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
-This is my [personal webpage](https://efe.web.cern.ch). I am a *particle physicist* working as an Assistant Fellow of [National Taiwan University](https://hep1.phys.ntu.edu.tw/hep-web/) based at [CERN](https://home.cern/), Geneva. I mainly work on the [CMS Experiment](https://cms.cern/) at the [Large Hadron Collider (LHC)](https://home.cern/science/accelerators/large-hadron-collider) on *top quark* and *Higgs boson* physics, *Standard Model measurements*, *physics generators and event modelling*, and *calorimetry*. In addition to searching for new Higgs bosons with top quarks using the data sets from the LHC, I act as a co-convener of the *Physics Generators* group of the [HEP Software Foundation (HSF)](https://hepsoftwarefoundation.org/). I have been doing some research on *high energy astrophysics* as well from time to time. My list of publications could be find [here](https://efeyazgan.github.io/publications/) and a list of projects [here](https://efeyazgan.github.io/projects/). 
+This is my [personal webpage](https://efe.web.cern.ch). I am a *high energy physicist* working as an Assistant Fellow of [National Taiwan University](https://hep1.phys.ntu.edu.tw/hep-web/) based at [CERN](https://home.cern/), Geneva. I mainly work on the [CMS Experiment](https://cms.cern/) at the [Large Hadron Collider (LHC)](https://home.cern/science/accelerators/large-hadron-collider) on *top quark* and *Higgs boson* physics, *Standard Model measurements*, *physics generators and event modelling*, and *calorimetry*. In addition to searching for new Higgs bosons with top quarks using the data sets from the LHC, I act as a co-convener of the *Physics Generators* group of the [HEP Software Foundation (HSF)](https://hepsoftwarefoundation.org/). I have been doing some research on *high energy astrophysics* as well from time to time. My list of publications could be find [here](https://efeyazgan.github.io/publications/) and a list of projects [here](https://efeyazgan.github.io/projects/). 
 
 In 2005, I joined the CMS experiment at the LHC, CERN, and completed my PhD at the Fermi National Accelerator
 Laboratory (Fermilab, USA) in 2007.
-I moved to CERN in 2007, and since then I am based at CERN. I worked for Texas Tech (USA), and Ghent (Belgium) University, Institute of High Energy Physics (IHEP, China), and now I am working for National Taiwan University since 2020. 
+I moved to CERN in 2007, and since then I am based at CERN, near Geneva, Switzerland. I worked for Texas Tech (USA), and Ghent (Belgium) University, Institute of High Energy Physics (IHEP, China), and now I am working for National Taiwan University since 2020. You can find more details about my work in my [CV](https://efeyazgan.github.io/cv/).
 
 <!--- I live in France near Geneva with my family. --->
 
 <!--- ### Short Biography --->
 
+<!---
 ### Main Research Interests
 * Particle physics: Top quark and Higgs boson physics, Standard Model Measurements, QCD Event Modelling, Calorimetry
 * High energy- and particle-astrophysics
@@ -102,3 +103,4 @@ I moved to CERN in 2007, and since then I am based at CERN. I worked for Texas T
 ### Shifts in CMS at CERN
 * Data Quality Monitoring (DQM) Expert-On-Call **[CERN, 2009-2019]**
 * Hadron Calorimeter (HCAL) **[CERN, 2007-2009]**
+--->
