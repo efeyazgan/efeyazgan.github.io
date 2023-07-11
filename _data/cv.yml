@@ -207,3 +207,28 @@
     - year: 2007 - 2009
       items:
         - Hadron Calorimeter (HCAL)
+
+- title: Education
+  type: time_table
+  contents:
+    - title: PhD
+      institution: METU, Ankara, Turkey with Host Laboratory Fermilab, Batavia, IL, USA
+      year: 2007
+      description:
+        - Search for a Standard Model Higgs boson in CMS via vector boson fusion in the H->WW->lvlv channel and optimization of energy reconstruction in CMS using test beam 2006 data
+    - title: MSc
+      institution: METU, Ankara, Turkey
+      year: 2002
+      description:
+        - Timing Characteristics of Intermediate Polar Type Cataclysmic Variables and Detailed Data Analysis on YY Draconis
+    - title: BSc
+      institution: METU, Ankara, Turkey
+      year: 2000
+      description:
+        - Special undergraduate advanced physics program
+
+
+- title: Other Interests
+  type: list
+  contents:
+    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
