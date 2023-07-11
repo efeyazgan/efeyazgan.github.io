@@ -4,7 +4,7 @@
     - name: Full Name
       value: Efe Yazgan 
     - name: Languages
-      value: English, German
+      value: English, French, Turkish
 
 - title: Education
   type: time_table
@@ -29,9 +29,9 @@
 - title: Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: Assistant Fellow
+      institution: National Taiwan University, Taipei, Taiwan
+      year: 2020-present
       description:
         - Description 1.
         - Description 2.
