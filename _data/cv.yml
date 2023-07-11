@@ -199,6 +199,8 @@
         - Assistant Researcher in Carbon nanotoroid and nanohelix cage structures; mechanical and electronic properties, METU, BAP-2004-07-02-00-35
 
 - title: Shifts in CMS at CERN
+  type: time_table
+  contents:
     - year: 2009 - 2019
       items:
         - Data Quality Monitoring (DQM) Expert on call
