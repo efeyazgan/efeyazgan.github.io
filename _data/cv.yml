@@ -2,9 +2,9 @@
   type: map
   contents:
     - name: Full Name
-      value: Efe Yazgan
+      value:Efe Yazgan 
     - name: Languages
-      value: English, French, Turkish
+      value: English, German
 
 - title: Education
   type: time_table
@@ -29,9 +29,9 @@
 - title: Experience
   type: time_table
   contents:
-    - title: Assistant Fellow
-      institution: National Taiwan University, Taiwan
-      year: 2020 -
+    - title: Professor of Theoretical Physics
+      institution: Institute for Advanced Study, Princeton University
+      year: 1933 - 1955
       description:
         - Description 1.
         - Description 2.
@@ -39,44 +39,43 @@
           contents:
             - Sub-description 1.
             - Sub-description 2.
-    - title: Postdoctoral Researcher
-      institution: Institute of High Energy Physics (IHEP), China
-      year: 2016-2020
+    - title: Visiting Professor
+      institution: California Institute of Technology, Pasadena, California, US
+      year: 1933
       description:
         - Description 1.
         - Description 2.
 
-    - title: Postdoctoral Researcher
-      institution: University of Ghent, Belgium
-      year: 2011-2016
+    - title: Director
+      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
+      year: 1917-1933
 
-    - title: Postdoctoral Research Associate
-      institution: Texas Tech University (TTU), Lubbock, Texas, USA
-      year: 2007-2011
+    - title: Professor of Theoretical Physics
+      institution: Karl-Ferdinand University, Prague, Czechoslovakia
+      year: 1911 - 1917
       description:
 
-    - title: Guest Scientist and software developer
-      institution: , Fermi National Accelerator Laboratory (Fermilab), Batavia, IL, USA
-      year: 2005-2007
-      
-    - title: Teaching and research assistant
-      institution: Middle East Tehnical University (METU), Ankara, Turkey
-      year: 2000-2005
+    - title: Associate Professor of Theoretical Physics
+      institution: University of Zurich, Zurich, Switzerland
+      year: 1909 - 1911
+
+- title: Open Source Projects
+  type: time_table
+  contents:
+    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
+      year: 2015-now
+      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
 
 - title: Honors and Awards
   type: time_table
   contents:
-    - year: 2019
+    - year: 1921
       items: 
-        - CMS achievement award for work in the validation tools for generators and for sample production
-    - year: 2018
+        - Nobel Prize in Physics 
+        - Matteucci Medal
+    - year: 2029
       items: 
-        - Outstanding Contribution in Reviewing, Physics Letters B
-    - year: 2007
-        - CMS achievement award for crucial contributions to the analyses of ECAL+HCAL beam tests and global runs
-    - year: 2004
-        - Ph.D. Scholarship (BDP) from the Scientific and Technical Research Council of Turkey (TUBITAK)
-    - year: 2000-2002 M.Sc. basic sciences scholarship from TUBITAK
+        - Max Planck Medal
 
 - title: Academic Interests
   type: nested_list
