@@ -39,52 +39,56 @@
           contents:
             - Sub-description 1.
             - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
+    - title: Postdoctoral researcher
+      institution: Institute of High Energy Physics (IHEP), China
+      year: 2016 - 2020
       description:
         - Description 1.
         - Description 2.
 
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
+    - title: Postdoctoral researcher
+      institution: University of Ghent (UGent), Ghent, Belgium
+      year: 2011 - 2016
 
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
+    - title: Postdoctoral research associate
+      institution: Texas Tech University (TTU), Lubbock, TX, USA
+      year: 2007 - 2011
       description:
 
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
+    - title: Guest scientist and software developer
+      institution: Fermi National Accelerator Laboratory (Fermilab), Batavia, IL, USA
+      year: 2005 - 2007
 
-- title: Open Source Projects
+    - title: Teaching and research assistant
+      institution: Middle East Tehnical University (METU), Ankara, Turkey
+      year: 2000 - 2005
+
+- title: Awards and Scholarships
   type: time_table
   contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
-
-- title: Honors and Awards
-  type: time_table
-  contents:
-    - year: 1921
+    - year: 2019
       items: 
-        - Nobel Prize in Physics 
-        - Matteucci Medal
-    - year: 2029
+        - CMS achievement award for work in the validation tools for generators and for sample production 
+    - year: 2018
       items: 
-        - Max Planck Medal
+        - Outstanding Contribution in Reviewing, Physics Letters B
+    - year: 2007
+      items: 
+        - CMS achievement award for crucial contributions to the analyses of ECAL+HCAL beam tests and global runs
+    - year: 2004
+      items:
+        - Ph.D. Scholarship (BDP) from the Scientific and Technical Research Council of Turkey (TUBITAK)
+    - year: 2000 - 2002
+        - M.Sc. basic sciences scholarship from TUBITAK
 
 - title: Academic Interests
   type: nested_list
   contents:
-    - title: Topic 1.
+    - title: Particle physics
       items: 
-        - Description 1.
+        - Top quark, Higgs boson, Standard Model Measurements, QCD Event Modelling, Calorimetry
         - Description 2.
-    - title: Topic 2.
+    - title: High energy- and particle-astrophysics
       items:
         - Description 1.
         - Description 2.
