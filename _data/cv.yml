@@ -6,23 +6,15 @@
     - name: Languages
       value: English, French, Turkish
 
-- title: Education
-  type: time_table
+- title: Academic Interests
+  type: nested_list
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
-      description:
-        - Description 1.
+    - title: Particle physics
+      items:
+        - Top quark, Higgs boson, Standard Model Measurements, QCD Event Modelling, Calorimetry
         - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
-      description:
+    - title: High energy- and particle-astrophysics
+      items:
         - Description 1.
         - Description 2.
 
@@ -63,6 +55,69 @@
       institution: Middle East Tehnical University (METU), Ankara, Turkey
       year: 2000 - 2005
 
+- title: Convenership/Coordinator Positions
+  type: time_table
+  contents:
+    - title: High Energy Physics Software Foundation (HSF) Physics Generators
+      year: 2020-present
+      
+    - title: Level 2 Convener, CMS Physics Generators
+      year: 2017 - 2019
+
+    - title: Level 3 Convener, CMS Physics Comparisons and Generator Tunes
+      year: 2016 - 2017
+
+    - title: Level 3 Convener, CMS Top Quark Event Modelling and Generators
+      year: 2015 - 2017
+
+    - title: Level 3 convener, CMS Top Quark Properties Group
+      year: 2013 - 2014
+
+    - title: Level 3 convener, CMS Electroweak Dilepton Group
+      year: 2010 - 2011
+      
+    - title: Group leader, CMS Hadron Calorimeter (HCAL) Data Certification Leader
+      year: 2009 - 2011
+      
+    - title: Group leader, CMS HCAL Prompt Analysis Group Leader
+      year: 2008 - 2009
+      
+    - title: Coordinator, METU Freshman Physics Laboratory (mechanics and electronics) Coordinator
+      year: 2004
+      
+    - title: Coordination of Installation/commissioning, METU Computer Assisted Freshmen Physics Laboratory (mechanics and electronics)
+      year: 2000 - 2002
+      
+- title: Contact Person in CMS at CERN
+  type: time_table
+  contents:
+    - title: Harmonization of Modeling Systematic Uncertainties in Top Quark Measurements between ATLAS and CMS in the TOP LHC Working Group
+      year: 2021 - present
+      
+    - title: Event simulation sample verification script contact
+      year: 2019 - present
+
+    - title: HSF Physics Generators Working Group CMS Contact person
+      year: 2019 - present
+
+    - title: Top quark conference contact person
+      year: 2014 - 2019
+
+    - title: Calorimeter noise contact person in V+Jets group
+      year: 2010
+
+    - title: Physics Validation team contact person for HCAL
+      year: 2009 - 2011
+      
+    - title: HCAL contact person for global runs
+      year: 2007 - 2009
+      
+    - title: HCAL contact person for Particle Flow groups [Fermilab/CERN]
+      year: 2007 - 2008
+      
+    - title: Data reconstruction and transfer for ECAL+HCAL Test beam [Fermilab/CERN]
+      year: 2007 - 2008
+      
 - title: Awards and Scholarships
   type: time_table
   contents:
@@ -81,15 +136,23 @@
     - year: 2000 - 2002
         - M.Sc. basic sciences scholarship from TUBITAK
 
-- title: Academic Interests
-  type: nested_list
+- title: Education
+  type: time_table
   contents:
-    - title: Particle physics
-      items: 
-        - Top quark, Higgs boson, Standard Model Measurements, QCD Event Modelling, Calorimetry
+    - title: PhD
+      institution: University of Zurich, Zurich, Switzerland
+      year: 1905
+      description:
+        - Description 1.
         - Description 2.
-    - title: High energy- and particle-astrophysics
-      items:
+        - title: Description 3.
+          contents:
+            - Sub-description 1.
+            - Sub-description 2.
+    - title: Federal teaching diploma
+      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
+      year: 1900
+      description:
         - Description 1.
         - Description 2.
 
