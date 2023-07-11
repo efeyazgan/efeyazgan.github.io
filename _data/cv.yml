@@ -11,12 +11,10 @@
   contents:
     - title: Particle physics
       items:
-        - Top quark, Higgs boson, Standard Model Measurements, QCD Event Modelling, Calorimetry
-        - Description 2.
+        - Top quark, Higgs boson, Standard Model Measurements, QCD Event Modelling, Calorimetry, ...
     - title: High energy- and particle-astrophysics
       items:
-        - Description 1.
-        - Description 2.
+        - Neutron stars, white dwarfs, ...
 
 - title: Experience
   type: time_table
@@ -118,7 +116,7 @@
   contents:
     - year: 2019
       items: 
-        - CMS achievement award for work in the validation tools for generators and for sample production 
+        - [CMS achievement award for work in the validation tools for generators and for sample production](https://cms.cern/content/achievement-awards-2019)
     - year: 2018
       items: 
         - Outstanding Contribution in Reviewing, Physics Letters B
