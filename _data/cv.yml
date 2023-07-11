@@ -21,22 +21,17 @@
 - title: Experience
   type: time_table
   contents:
+    - title: User full time based at CERN
+      institution: CERN, Geneva, Switzerland
+      year: 2007 - present
+      
     - title: Assistant Fellow
       institution: National Taiwan University, Taipei, Taiwan
-      year: 2020-present
-      description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
+      year: 2020 - present
+      
     - title: Postdoctoral researcher
       institution: Institute of High Energy Physics (IHEP), China
       year: 2016 - 2020
-      description:
-        - Description 1.
-        - Description 2.
 
     - title: Postdoctoral researcher
       institution: University of Ghent (UGent), Ghent, Belgium
@@ -133,8 +128,57 @@
     - year: 2004
       items:
         - Ph.D. Scholarship (BDP) from the Scientific and Technical Research Council of Turkey (TUBITAK)
-    - year: 2000 - 2002
-        - M.Sc. basic sciences scholarship from TUBITAK
+    - year: M.Sc. basic sciences scholarship from TUBITAK
+        - 2000 - 2002
+
+- title: Reviewer, Committees, Consultant/Scientific Advisory, Conference and Workshop tasks
+  type: time_table
+  contents:
+    - year: 2012 - present
+      items:
+        - CMS Analysis Review Committees for > 16 Higgs, top, Standard Model measurements, and event modeling studies
+    - year: 2023
+      items:
+        - Reviewer for the journal Physics of the Dark Universe
+    - year: 2022
+      items:
+        - Book reviewer for CRC press - Routledge
+        - Co-organizer, MC4EIC 2022 Online workshop on Monte Carlo event simulation for the EIC organized by the CTEQ collaboration, the EIC User Group, the HEP Software Foundation (HSF), and MCnet, 16-18 November 2022.
+    - year: 2021
+      items:
+        - Chair, Standard Model Physics at the TeV Scale (parallel session) in PANIC2021 Online Conference, 5 September 2021.
+    - year: 2017 - 2020
+      items:
+        - Reviewer for the journal Physics Letters B
+    - year: 2020
+      items:
+        - Co-organizer, High Energy Physics Software Foundation (HSF) Worldwide LHC Computing Grid (WLGC) Virtual Workshop, 19-24 November 2020.
+        - Convener, High Energy Physics Software Foundation (HSF) Worldwide LHC Computing Grid (WLGC) Virtual Workshop, Event Generation Session, 19-24 November 2020.
+    - year: 2019 - 2020
+      items:
+        - Reviewer for the journal European Physical Journal C
+    - year: 2019
+      items:
+        - Local organizing committee member, 12th International Workshop on Top Quark Physics (TOP2019), 22-27 September 2019, Beijing, China.
+    - year: 2018
+      items:
+        - Chair, FCNC and EFT (indirect searches) (plenary session) in the 11th International Workshop on Top Quark Physics (TOP2018), 16-21 September 2018 Bad Neuenahr, Germany.
+        - CMS Oganizing Committee and Convener of the Simulation Session in CMS Heavy Flavour Tagging Workshop, 11-13 April 2018, Brussels, Belgium.
+        - Member of the jury for the PhD thesis of Deniz Poyraz [Ghent University]
+    - year: 2015-2018
+      items:
+        - Consultant for the project Free electron distribution in the Galaxy, distances to pulsars, and magnetic field of neutron stars (TUBITAK)
+    - year: 2016
+      items:
+        - Convener, Theory and Modelling Session in Workshop, 8-9 November 2016, CERN, Geneva, Switzerland.
+    - year: 2015
+      items:
+        - Member of the jury and the reading committee for the Ph.D. thesis of Kelly Beernaert [Ghent University]
+        - Scientific advisor for the turkish translation of the book Albert Einstein and Relativity for Kids
+    - year: 2013
+      items:
+        - Operations research committee member for Izmir High Energy Physics Workshop; New Physics at the LHC and Turkey-CERN relations 
+       
 
 - title: Education
   type: time_table
