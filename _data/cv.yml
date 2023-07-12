@@ -9,12 +9,7 @@
 - title: Academic Interests
   type: nested_list
   contents:
-    - title: Particle physics
-      items:
-        - Top quark, Higgs boson, Standard Model Measurements, QCD Event Modelling, Calorimetry, ...
-    - title: High energy- and particle-astrophysics
-      items:
-        - Neutron stars, white dwarfs, galaxy, ...
+    - title: Particle and astro-particle physics
 
 - title: Experience
   type: time_table
