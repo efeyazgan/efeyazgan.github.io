@@ -116,7 +116,7 @@
   contents:
     - year: 2019
       items: 
-        - "[CMS achievement award for work in the validation tools for generators and for sample production](https://cms.cern/content/achievement-awards-2019)"
+        - <a href="https://cms.cern/content/achievement-awards-2019" target="_blank">CMS achievement award for work in the validation tools for generators and for sample production
     - year: 2018
       items: 
         - Outstanding Contribution in Reviewing, Physics Letters B
