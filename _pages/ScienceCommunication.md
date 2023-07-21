@@ -6,7 +6,6 @@ description:
 nav: true
 ---
 
-### Science Communication
 * [Higgs physics](https://indico.cern.ch/event/1199854/timetable/#20221001 ), presentation in Turkey-CERN status review, 1 October 2022. 
 * Search for extra Higgs Bosons at the LHC, E. Yazgan et al. poster in ASP March 2022 meeting. 
 * [High energy particle physics and the Higgs boson](https://www.youtube.com/watch?app=desktop&v=U93YQniW9GY ), presentation and discussion with students of Elazig Kaya Karakaya Fen Lisesi (online), 22 Avril 2022.
@@ -25,10 +24,9 @@ nav: true
 * CERN Cosmology Questionnaire, Turkish translation, 2017.
 * [CMS Experiment at CERN Introduction Video](https://www.youtube.com/watch?v=S99d9BQmGB0), Turkish sub-titles, B. Akgun, S. Sekmen, E.
 Yazgan, 2016
-* [Astroparticle Physics and Cosmology](http://efe.web.cern.ch/efe/Lectures.html), in Turkish Teachers Programs at CERN , Geneva, 2015-present.
 * Albert Einstein and Relativity for Kids, Scientific advisor for the Turkish translation of the book, TUBITAK, 2015.
 <!---- * [Turkish Scientists at CERN](https://www.sozcu.com.tr/egitim/cerndeki-turk-bilimadamlari.html) , published in the journal Sozcu, 23 February 2005. ---->
-* Appeared in [Old School Electroweak](https://news.fnal.gov/2012/08/old-school-electroweak/) , in CMS Result of the Month in Fermilab Today, 3 August 2012.
+* Appeared in [Old School Electroweak](https://www.fnal.gov/pub/today/archive/archive_2012/today12-08-03.html) , in CMS Result of the Month in Fermilab Today, 3 August 2012.
 * Selected Contributions to the CMS Experiment at the LHC from Past and Present Members of the METU High Energy Physics Group, Poster for CERN: Accelerating Science Exhibition, 2 April - 8 July 2012, METU, Ankara, Turkiye.
 * Interview about CERN, 100 Turkish Scientists Working Abroad and the Lost Economic Potential of Turkiye, published in the TurkishTime, January 2012.
 * The Turks after the Great Mystery, published in the journal Hurriyet Kampus, 18 February 2011.
