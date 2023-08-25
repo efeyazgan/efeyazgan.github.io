@@ -36,4 +36,5 @@ Yazgan, 2016
 * Interview about Turkiye’s involvement at CERN, published in the journal Turkish Daily News, 2009.
 * Interviews on the LHC First Beam Day on CNN Turk, 9-10 September 2008.
 * [Interview about CERN](http://www.radikal.com.tr/turkiye/yuzyilin-fizik-deneyi-801842/), Experiment of the Century, published in the journal Radikal, 1 January 2007.
+* *Can Science Explain Everything? Anything?* by S. Weinberg, translation from English to Turkish of the article published in the journal ’Bilim ve Teknik (Science and Technics)’ as ’Bilim Herseyi Aciklayabilir mi?', Y. Uzunefe Yazgan and E. Yazgan, March 2005.
 * Physics Department Outreach Days for High School Students, 2002 and 2003. 
