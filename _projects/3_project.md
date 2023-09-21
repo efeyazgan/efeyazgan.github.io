@@ -7,8 +7,10 @@ importance: 2
 category: high energy physics
 ---
 
-With the Large Hadron Collider (LHC) data Run I, the LHC experiments discovered a scalar boson, h(125), the properties of which are consistent with those of the Higgs boson of the Standard Model (SM). Run II data allowed more precise measurements of h(125) properties. LHC experiments measured the top quark, bottom quark, tau, and recently, the muon Yukawa couplings to h(125), all found to be consistent with SM expectations. The existence of one scalar doublet makes the existence of a second Higgs doublet probable. This Proposal aims to perform searches for this extra Higgs doublet, first with full 137 fb-1 Run II data and then progress to Run III data, the data taking for which is planned to start in 2022. Such extra Higgs bosons could have masses below a TeV and possess extra Yukawa couplings, which can explain the electroweak baryogenesis of the Universe. I am the principle investigator of this project (MOST Grant 110-2112-M-002-017 [8 Aug. 2021 - 31 Jul. 2023]). 
+With the Large Hadron Collider (LHC) data Run I, the LHC experiments discovered a scalar boson, h(125), the properties of which are consistent with those of the Higgs boson of the Standard Model (SM). Run II data allowed more precise measurements of h(125) properties. LHC experiments measured the top quark, bottom quark, tau, and recently, the muon Yukawa couplings to h(125), all found to be consistent with SM expectations. The existence of one scalar doublet makes the existence of a second Higgs doublet probable. This Proposal aims to perform searches for this extra Higgs doublet, first with full 137 fb-1 Run II data and then progress to Run III data, the data taking for which is planned to start in 2022. Such extra Higgs bosons could have masses below a TeV and possess extra Yukawa couplings, which can explain the electroweak baryogenesis of the Universe. 
 
+Publications on new Higgs bosons from this project:
+* CMS Experiment, "Search for new Higgs bosons via same-sign top quark pair production in association with a jet in proton-proton collisions at √s = 13 TeV", <a href="https://cds.cern.ch/record/2868011"> CMS-PAS-TOP-22-010 </a>
 
 
 <!---
