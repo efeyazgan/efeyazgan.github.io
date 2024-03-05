@@ -14,7 +14,7 @@
 - title: Publications
   type: nested_list
   contents:
-    - title: <a href="https://efeyazgan.github.io/publications/" target="_blank"> Lists of publications
+    - title: <a href="https://efeyazgan.github.io/publications/" target="_blank"> Lists of publications </a>
 
 - title: Experience
   type: time_table
