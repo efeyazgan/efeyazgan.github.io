@@ -11,6 +11,11 @@
   contents:
     - title: high-energy physics; top quark; standard model; Higgs boson; physics generators and modelling; calorimetry; high energy astrophysics, computational physics
 
+- title: Publications
+  type: nested_list
+  contents:
+    - title: <a href="https://efeyazgan.github.io/publications/" target="_blank"> Lists of publications
+
 - title: Experience
   type: time_table
   contents:
