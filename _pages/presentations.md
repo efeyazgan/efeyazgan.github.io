@@ -86,7 +86,7 @@ nav: true
 
 ### Department Seminars
 * [Asymmetries at (Hadron) Colliders](https://agenda.irmp.ucl.ac.be/event/2035/) at Université catholique de Louvain, March 11, 2015, Louvain-La-Neuve, Belgium. 
-* [Top Quark and Asymmetries at Colliders](http://www.physics.metu.edu.tr/Seminars/SEM14090) at the Middle East Technical University (METU), December 26, 2014, Ankara, Turkey.
+* Top Quark and Asymmetries at Colliders at the Middle East Technical University (METU), December 26, 2014, Ankara, Turkey.
 * Asymmetries at Colliders at the Ghent University (UGent), September 3, 2014, Gent, Belgium.
 * [Early Z Boson Measurements at CMS in pp Collisions at 7 TeV](http://llr.in2p3.fr/spip.php?page=view_semin&seminID=79) at the Le Laboratoire Leprince-Ringuet (LLR), Ecole Polytechnique, February 21, 2011, Palaiseau, France.
 * [Early Z Boson Measurements at CMS in pp Collisions at 7 TeV](http://www.ipnl.in2p3.fr/spip.php?article1177) at the Institut de Physique Nucl aire de Lyon (IPNL), January 19, 2011, Lyon, France.
