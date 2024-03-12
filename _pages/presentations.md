@@ -76,7 +76,8 @@ nav: true
 * Stability of Carbon Nanotoroids, E. Yazgan (presenter), E. Tasci, O.B. Malcioglu, and S. Erkoc,  at the NATO-Advance Study Institute (ASI) Nanoengineered Nanofibrous Materials September 1-12, 2003, Belek-Antalya, Turkey.
 
 ### Selected CMS Internal Presentations
-* Uncertainties from Parton Shower Codes, E. Yazgan, Deep Dive on Modeling Uncertainties, 15 September 2023, CERN, Switzerland. 
+* Uncertainties from Parton Shower Codes, E. Yazgan, Deep Dive on Modeling Uncertainties, 15 September 2023, CERN, Switzerland.
+* Event Generators in CMS, CMS Heavy Flavor Tagging Workshop 2018, 11-13 April 2018, Brussels, Belgium. 
 * Top Quark Event Modeling at ~100 fb$^{-1}$, E. Yazgan and J. Fernandez, Top@100 fb$^{-1} Workshop, 8-9 November 2016, CERN, Switzerland. 
 * Top Quark Pole Mass, $\alpha_s$, and PDFs, Beyond-2-Generations/Top Quark Run 2 Workshop, 20 October 2015, CERN, Switzerland.
 * The top Quark at 13 TeV, Plenary talk at the CMS Week 4-8 May, 2015, CERN, Switzerland.
