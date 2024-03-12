@@ -64,6 +64,7 @@ nav: true
 * Spin-up of the White Dwarf in the Intermediate Polar YY Draconis, E. Yazgan,  at the High Energy Astrophysics Workshop (2000), Sabanci University, Istanbul, Turkey.
 
 ### Posters
+* Midterm Report on Decadal Mission: Towards the New Physics Higgs/Flavor Era, E. Yazgan, K.-F. Chen et al., Academic Summit Project (ASP) Annual Interchange Meeting, March 2024, Taiwan. 
 * Search for Extra Higgs Bosons at the LHC, T.-H. Hsu, Z.-G. Chen, G. Kole, E. Yazgan, J. Thomas-Wilsker, L. Ceard, Y. Chao, K.-F. Chen, G.W.S. Hou,  Y.-W. Kao, Academic Summit Project (ASP) Annual Interchange Meeting, 24-25 March 2023, Taiwan.
 * Search for Extra Higgs Bosons at the LHC, E. Yazgan, L. Ceard, Y. Chao, K.-F. Chen, G.W.S. Hou, T.-H. Hsu, Y.-W. Kao, Academic Summit Project (ASP) Annual Interchange Meeting, 25-26 March 2022, Taiwan.
 *  [Towards a Measurement of Spin Correlation of ttbar Events at CMS using a Matrix Element Method](https://indico.cern.ch/getFile.py/access?contribId=116&sessionId=1&resId=0&materialId=slides&confId=238337), K. Beernaert (presenter by), M. Grunewald, E. Yazgan, in LHC students poster session in 113th LHCC Meeting, 13 March 2013, CERN, Geneva, Switzerland.
@@ -75,12 +76,16 @@ nav: true
 * Stability of Carbon Nanotoroids, E. Yazgan (presenter), E. Tasci, O.B. Malcioglu, and S. Erkoc,  at the NATO-Advance Study Institute (ASI) Nanoengineered Nanofibrous Materials September 1-12, 2003, Belek-Antalya, Turkey.
 
 ### Selected CMS Internal Presentations
-* Top Quark at 13 TeV, Plenary talk at the CMS Week 4-8 May, 2015, CERN, Switzerland.
+* Uncertainties from Parton Shower Codes, E. Yazgan, Deep Dive on Modeling Uncertainties, 15 September 2023, CERN, Switzerland. 
+* Top Quark Event Modeling at ~100 fb$^{-1}$, E. Yazgan and J. Fernandez, Top@100 fb$^{-1} Workshop, 8-9 November 2016, CERN, Switzerland. 
+* Top Quark Pole Mass, $\alpha_s$, and PDFs, Beyond-2-Generations/Top Quark Run 2 Workshop, 20 October 2015, CERN, Switzerland.
+* The top Quark at 13 TeV, Plenary talk at the CMS Week 4-8 May, 2015, CERN, Switzerland.
 * The DY Forward Backward Decay Asymmetry, US CMS Weekly Meeting, November 18, 2011, CERN, Switzerland.
 * HCAL, CASTOR and ZDC performance, 7 TeV Jamboree, April 8, 2010, CERN, Switzerland.
 * The HCAL Anomalous Events, US CMS Weekly Meeting, February 19, 2010, CERN, Switzerland.
 * HCAL Muon Response at the CRAFT Data Analysis Workshop, December 10, 2008, CERN, Switzerland.
 * HB Muon Response as a function of tracker momentum from CRAFT and Cosmic Monte Carlo at ECAL+HCAL Simulation Task Force, November 14, 2008, CERN, Switzerland.
+* CMS Calorimeter Response to Hadrons, E. Yazgan and J. Damgov, ALL USCMS Meeting, 19 January 2007, Fermilab, Batavia, IL, USA.
 * Improvements to the energy resolution based on TB2006 studies, HCAL Agenda for December 2006 CMS Week, December 4, 2006, Fermilab, Batavia, IL, USA.
 * Optimization of Energy Reconstruction, at the Fall USCMS HCAL Meeting at Fermilab, October 26, 2006, Fermilab, Batavia, IL, USA.
 
