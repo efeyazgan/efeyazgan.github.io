@@ -42,6 +42,8 @@ nav: true
    * M. O. Sahin, *Search for Z' via Forward Backward Asymmetry in Dielectron Channel with the CMS Detector at the Large Hadron Collider*, **Master's Thesis**, Middle East Technical University, 2012.
    * Y.  J. Roh, *Measurement of the Forward-Backward Asymmetry in $$\gamma/Z$$ Boson to Dilepton Events in Compact Muon Solenoid at a Center-of-mass Energy of 7 TeV*, **PhD Thesis**, Texas Tech University, 2011.  
    * B. Bilin, *Production of Z+Jet Events and HF Jet Energy Scale Calibration at 7 TeV in the CMS Experiment at LHC*, **Master's Thesis**, Middle East Technical University,  2011.
+   * B. Bilin, *Measurements of standard model heavy particle production in association with jets using proton-proton collision data at 8 and 13 TeV with the CMS experiment at the LHC*, **PhD Thesis**, Middle East Technical University  2011--2016
+
    
 ### Supervised Summer Projects at CERN
 * G. Vandierendonck (Ghent University Summer Student at CERN), *Four Top Quark Production at the High Luminosity LHC*, 2016. 
