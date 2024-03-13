@@ -5,10 +5,10 @@ title: science communication
 description: 
 nav: true
 ---
-* Midterm Report on Decadal Mission: Towards the New Physics Higgs/Flavor Era, E. Yazgan et al. poster in ASP March 2022 meeting. 
+* Midterm Report on Decadal Mission: Towards the New Physics Higgs/Flavor Era, E. Yazgan et al. poster in ASP March 2024 meeting, Taiwan. 
 * [Hunting the Higgs Boson Siblings with Top Quarks](https://cms.cern/news/hunting-higgs-boson-siblings-top-quarks), CMS Physics Briefing, 23 August 2023.
 * [Higgs physics](https://indico.cern.ch/event/1199854/timetable/#20221001 ), presentation in Turkey-CERN status review, 1 October 2022. 
-* Search for extra Higgs Bosons at the LHC, E. Yazgan et al. poster in ASP March 2022 meeting. 
+* Search for extra Higgs Bosons at the LHC, E. Yazgan et al. poster in ASP March 2022 meeting, Taiwan. 
 * [High energy particle physics and the Higgs boson](https://www.youtube.com/watch?app=desktop&v=U93YQniW9GY ), presentation and discussion with students of Elazig Kaya Karakaya Fen Lisesi (online), 22 Avril 2022.
 * [Data science in high energy particle physics](https://www.youtube.com/watch?v=nFrc4nCddFg&t=17120s ), presentation in Istanbul Tech Week (online conference), 3-7 November 2020.
 * Lectures in CERN teacher's programme, Geneva, Switzerland:
