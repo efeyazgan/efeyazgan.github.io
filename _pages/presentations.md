@@ -64,7 +64,7 @@ nav: true
 * Spin-up of the White Dwarf in the Intermediate Polar YY Draconis, E. Yazgan,  at the High Energy Astrophysics Workshop (2000), Sabanci University, Istanbul, Turkey.
 
 ### Posters
-* Midterm Report on Decadal Mission: Towards the New Physics Higgs/Flavor Era, E. Yazgan, K.-F. Chen et al., Academic Summit Project (ASP) Annual Interchange Meeting, March 2024, Taiwan. 
+* [Midterm Report on Decadal Mission: Towards the New Physics Higgs/Flavor Era](https://github.com/efeyazgan/efeyazgan.github.io/blob/master/assets/pdf/NTU_ASP_Poster_extrayukawa_2024.pdf), E. Yazgan, K.-F. Chen et al., Academic Summit Project (ASP) Annual Interchange Meeting, March 2024, Taiwan. 
 * Search for Extra Higgs Bosons at the LHC, T.-H. Hsu, Z.-G. Chen, G. Kole, E. Yazgan, J. Thomas-Wilsker, L. Ceard, Y. Chao, K.-F. Chen, G.W.S. Hou,  Y.-W. Kao, Academic Summit Project (ASP) Annual Interchange Meeting, 24-25 March 2023, Taiwan.
 * Search for Extra Higgs Bosons at the LHC, E. Yazgan, L. Ceard, Y. Chao, K.-F. Chen, G.W.S. Hou, T.-H. Hsu, Y.-W. Kao, Academic Summit Project (ASP) Annual Interchange Meeting, 25-26 March 2022, Taiwan.
 *  [Towards a Measurement of Spin Correlation of ttbar Events at CMS using a Matrix Element Method](https://indico.cern.ch/getFile.py/access?contribId=116&sessionId=1&resId=0&materialId=slides&confId=238337), K. Beernaert (presenter by), M. Grunewald, E. Yazgan, in LHC students poster session in 113th LHCC Meeting, 13 March 2013, CERN, Geneva, Switzerland.
