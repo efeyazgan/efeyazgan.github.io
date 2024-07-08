@@ -5,7 +5,7 @@ title: science communication
 description: 
 nav: true
 ---
-* [The best non-technical books to get interested in knowing the Universe published  Shepherd.com](https://shepherd.com/best-books/non-technical-books-to-get-interested-in-knowing-t)
+* [The best non-technical books to get interested in knowing the Universe published in Shepherd.com](https://shepherd.com/best-books/non-technical-books-to-get-interested-in-knowing-t)
 * Midterm Report on Decadal Mission: Towards the New Physics Higgs/Flavor Era, E. Yazgan et al. poster in ASP March 2024 meeting, Taiwan. 
 * [Hunting the Higgs Boson Siblings with Top Quarks](https://cms.cern/news/hunting-higgs-boson-siblings-top-quarks), CMS Physics Briefing, 23 August 2023.
 * [Higgs physics](https://indico.cern.ch/event/1199854/timetable/#20221001 ), presentation in Turkey-CERN status review, 1 October 2022. 
