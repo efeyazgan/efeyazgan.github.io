@@ -7,7 +7,7 @@ nav: true
 ---
 
 ### Edited Books
-* Top Quark at the New Physics Frontier, E. Yazgan, and P. Silva, MDPI ISBN978-3-7258-0613-3. [At NASA ADS](https://www.mdpi.com/books/book/9016-top-quark-at-the-new-physics-frontier), [At amazon.fr](https://amzn.eu/d/00cv5IUb) 
+* Top Quark at the New Physics Frontier, E. Yazgan, and P. Silva, MDPI ISBN978-3-7258-0613-3. [At NASA ADS](https://www.mdpi.com/books/book/9016-top-quark-at-the-new-physics-frontier), [At amazon.fr](https://amzn.eu/d/00cv5IUb), [At CERN Library](https://catalogue.library.cern/literature/7edc1-f8f78)
 * Neutron Stars, Supernovae and Supernova Remnants, O. Guseinov, E. Yazgan, and A. Ankay (eds.), Nova Science Publishers ISBN 978-1-60021-548-3.  [At NASA ADS](https://ui.adsabs.harvard.edu/abs/2007nssn.book.....G), [At amazon.fr](https://www.amazon.fr/dp/1600215483?tag=bblpage00-21)
 
 ### Book Chapters
