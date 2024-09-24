@@ -7,6 +7,7 @@ nav: true
 ---
 
 ### Plenary Talks
+* [Searches for Additional Scalar Bosons with the CMS Experiment](https://indico.ijclab.in2p3.fr/event/10259/contributions/32979/attachments/22677/34612/HiggsHunting2024_eyazgan_15m.pdf), E. Yazgan for the CMS Collaboration, at the [*Higgs Hinting 2024* Workshop](https://indico.ijclab.in2p3.fr/event/10259/), 23-25 September, Orsay and Paris, France
 * [ATLAS and CMS Top Quark Rare Searches (Flavor Changing Neutral Currents)](https://indico.cern.ch/event/1346940/contributions/5785469/attachments/2853812/4990313/Yazgan_SMLHC2024.pdf), E. Yazgan for the ATLAS and CMS Collaborations, at the *Standard Model at the LHC 2024* Workshop, 7 - 10 May, 2024, Rome, Italy.  
 * [CMS Highlight talk: Search for extra Higgs bosons through same-sign top-quark production in association with an extra jet ](https://indico.cern.ch/event/1328004/contributions/5663614/attachments/2762034/4810223/toplhcwg_29nov2023_eyazgan.pdf), E. Yazgan for the CMS Collaboration, at the *LHC TOP Working Group Meeting*, 29 Nov - 1 Dec, 2023, remote meeting. 
 * [Top Quark Properties](https://indico.cern.ch/event/856696/timetable/?view=standard#b-372451-plenary-ii-top-physic), E. Yazgan for the ATLAS, and CMS Collaborations, at the *8th Edition of the Large Hadron Collider Physics Conference (LHCP2020)*, 25-30 May 2020, fully online conferece.
