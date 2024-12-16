@@ -12,6 +12,7 @@ Measurements at hadron colliders rely on large scale quantum chromodynamics (QCD
 Top quark measurements provide important tests of QCD and of the consistency of the standard model (SM). Better understanding of perturbative and non-perturbative effects is required to obtain the highest possible precision in the measurement of top quark properties, in particular, the top quark mass, and its interpretation. Differential measurements done with well-defined top-quark objects are also important to improve the accuracy of predictions in different phase space regions in searches for beyond the SM effects. The uncertainties in the measurements and the predictions need to be at a level where deviations from the predictions from the MC codes or deviations due to new physics effects may become visible.
 
 Papers and notes related to top quark modelling:
+* CMS Collaboration, "Review of top quark mass measurements in CMS", <a href="https://arxiv.org/abs/2403.01313"> arXiv:2403.01313 [hep-ex] </a>, Accepted by Phys. Rep. 
 
 * E. Yazgan, "Modelling the Data at the LHC", Proceedings of Particles and Nuclei International Conference - PANIC2021, 5-10 September, 2021, <a href="https://arxiv.org/abs/2110.02599"> arXiv:2110.02599 [hep-ex, hep-ph] </a>, <a href="https://pos.sissa.it/380/410/"> PoS(PANIC2021)410 </a>
 
