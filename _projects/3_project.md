@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Search for new Yukawa Couplings at the LHC with Heavy Quarks
-description: Funded by Ministry of Science and Technology (MOST), Taiwan
+description: Funded by National Science and Technology Council (NSTC), Taiwan
 img: assets/img/extrayukawa.png
 importance: 2
 category: high energy physics
@@ -10,8 +10,15 @@ category: high energy physics
 With the Large Hadron Collider (LHC) data Run I, the LHC experiments discovered a scalar boson, h(125), the properties of which are consistent with those of the Higgs boson of the Standard Model (SM). Run II data allowed more precise measurements of h(125) properties. LHC experiments measured the top quark, bottom quark, tau, and recently, the muon Yukawa couplings to h(125), all found to be consistent with SM expectations. The existence of one scalar doublet makes the existence of a second Higgs doublet probable. This Proposal aims to perform searches for this extra Higgs doublet, first with full 137 fb-1 Run II data and then progress to Run III data, the data taking for which is planned to start in 2022. Such extra Higgs bosons could have masses below a TeV and possess extra Yukawa couplings, which can explain the electroweak baryogenesis of the Universe. 
 
 Publications on new Higgs bosons from this project:
-* CMS Experiment, "Search for new Higgs bosons via same-sign top quark pair production in association with a jet in proton-proton collisions at √s = 13 TeV", <a href="https://cds.cern.ch/record/2868011"> CMS-PAS-TOP-22-010 </a>
+* CMS Experiment, "Search for new Higgs bosons via same-sign top quark pair production in association with a jet in proton-proton collisions at √s = 13 TeV", <a href="http://dx.doi.org/10.1016/j.physletb.2024.138478"> Phys. Lett. B 850 (2024) 138478 </a>. 
+* E. Yazgan and P. Silva, <a href="https://doi.org/10.3390/books978-3-7258-0614-0"> Top Quark at the New Physics Frontier </a>, Universe, March 2024.
+* E. Yazgan and P. Silva, "Top Quark at the New Physics Frontier -- Editorial", <a href="https://doi.org/10.3390/universe10030124"> Universe 10 (2024) 10 </a>
+* E. Yazgan and K.-F. Chen (editors), <a href="https://www.mdpi.com/journal/symmetry/special_issues/6942NI2710"> New Higgs-Like States </a>, A Special Issue of the Symmetry Journal in preparation. 
 
+Presentations on new Higgs bosons from this project:
+* E. Yazgan for the CMS Collaboration, <a href="https://indico.ijclab.in2p3.fr/event/10259/contributions/32979/attachments/22677/34612/HiggsHunting2024_eyazgan_15m.pdf"> Searches for Additional Scalar Bosons with the CMS Experiment </a>,  at the <a href="https://indico.ijclab.in2p3.fr/event/10259/"> Higgs Hunting 2024 Workshop </a>, 23-25 September, Orsay and Paris, France
+* E. Yazgan for the ATLAS and CMS Collaborations, <a href="https://indico.cern.ch/event/1346940/contributions/5785469/attachments/2853812/4990313/Yazgan_SMLHC2024.pdf"> ATLAS and CMS Top Quark Rare Searches (Flavor Changing Neutral Currents) </a>,  at the Standard Model at the LHC 2024 Workshop, 7 - 10 May, 2024, Rome, Italy.
+* E. Yazgan for the CMS Collaboration, <a href="https://indico.cern.ch/event/1328004/contributions/5663614/attachments/2762034/4810223/toplhcwg_29nov2023_eyazgan.pdf"> CMS Highlight talk: Search for extra Higgs bosons through same-sign top-quark production in association with an extra jet </a>, at the LHC TOP Working Group Meeting, 29 Nov - 1 Dec, 2023, remote meeting.
 
 <!---
 To give your project a background in the portfolio page, just add the img tag to the front matter like so:
