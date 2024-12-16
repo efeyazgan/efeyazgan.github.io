@@ -11,8 +11,13 @@ Measurements at hadron colliders rely on large scale quantum chromodynamics (QCD
 
 Top quark measurements provide important tests of QCD and of the consistency of the standard model (SM). Better understanding of perturbative and non-perturbative effects is required to obtain the highest possible precision in the measurement of top quark properties, in particular, the top quark mass, and its interpretation. Differential measurements done with well-defined top-quark objects are also important to improve the accuracy of predictions in different phase space regions in searches for beyond the SM effects. The uncertainties in the measurements and the predictions need to be at a level where deviations from the predictions from the MC codes or deviations due to new physics effects may become visible.
 
+Related convenerships:
+* Co-convener of the CMS Top Quark Event Modelling and Generators
+
 Papers and notes related to top quark modelling:
 * CMS Collaboration, "Review of top quark mass measurements in CMS", <a href="https://arxiv.org/abs/2403.01313"> arXiv:2403.01313 [hep-ex] </a>, Accepted by Phys. Rep. 
+
+* CMS Collaboration, "CMS PYTHIA 8 colour reconnection tunes based on underlying-event data", <a href="https://link.springer.com/article/10.1140/epjc/s10052-023-11630-8"> Euro. Phys. J. C 83 (2023) 587 </a>
 
 * E. Yazgan, "Modelling the Data at the LHC", Proceedings of Particles and Nuclei International Conference - PANIC2021, 5-10 September, 2021, <a href="https://arxiv.org/abs/2110.02599"> arXiv:2110.02599 [hep-ex, hep-ph] </a>, <a href="https://pos.sissa.it/380/410/"> PoS(PANIC2021)410 </a>
 
@@ -57,6 +62,8 @@ Presentations related to top quark modelling:
 * E. Yazgan, <a href="https://indico.cern.ch/event/505065/sessions/194988/#20160922"> Top Quark Modelling in CMS </a>, in LHC Days in Split, 19-24 September 2016, Split, Crotia.
 * E. Yazgan for the ATLAS and CMS Collaborations, <a href="https://indico.cern.ch/event/403826/session/2/contribution/3/attachments/1188160/1723804/yazgan_toplhcwg_17_18_Nov_2015_final.pdf"> ATLAS and CMS pole mass measurements </a> at The Working Group on Top Physics at the LHC (TOPLHCWG) meeting, 17-18 November 2015, CERN, Geneva, Switzerland. 
 * K. Beernaert, M. Grunewald, E. Yazgan, <a href="https://indico.cern.ch/getFile.py/access?contribId=21&resId=0&materialId=slides&confId=280658">Towards a Measurement of Spin Correlations in ttbar Events at the LHC using Matrix Element Method </a> at Zurich Phenomenology Workshop (ZPW2014) Monte Carlo Simulation and 2nd Mini-Workshop on Advances in the Matrix Element Methods, University of Zurich, Switzerland. 
+
+
 
 <!--
 Every project has a beautiful feature showcase page.
