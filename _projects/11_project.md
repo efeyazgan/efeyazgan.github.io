@@ -7,7 +7,7 @@ importance: 3
 category: high energy physics
 ---
 
-"Physics event generators are an essential component of the data processing and analysis chain of the LHC experiments. All of the scientific results of the LHC experiments, such as precision measurements of physics parameters and searches for new physics, depend significantly on the comparison of experimental measurements to theoretical predictions, in most cases computed using generator software" (from A. Valsssi, E. Yazgan, J. McFayden, et al. "Challenges in Monte Carlo Event Generator Software for High-Luminosity LHC", <a href="https://link.springer.com/article/10.1007/s41781-021-00055-1"> Comput. Softw. Big Sci. 5 (2021) 12 </a>).
+"Physics event generators are an essential component of the data processing and analysis chain of the LHC experiments. All of the scientific results of the LHC experiments, such as precision measurements of physics parameters and searches for new physics, depend significantly on the comparison of experimental measurements to theoretical predictions, in most cases computed using generator software" (from A. Valassi, E. Yazgan, J. McFayden, et al. "Challenges in Monte Carlo Event Generator Software for High-Luminosity LHC", <a href="https://link.springer.com/article/10.1007/s41781-021-00055-1"> Comput. Softw. Big Sci. 5 (2021) 12 </a>).
 
 Related convenerships:
 * Co-convener of the <a href="https://hepsoftwarefoundation.org/activities/generators.html"> physics generators group of High Energy Physics Software Foundation (HSF) </a> from 2020 to 2023. 
@@ -26,7 +26,7 @@ Papers and documents related to event generators:
 
 * E. Yazgan et al. "HL-LHC Computing Review Stage-2, Common Software Projects: Event Generators", <a href="https://arxiv.org/abs/2109.14938"> arXiv/2109.14938 [hep-ph, hep-ex, physics.comp-ph]; FERMILAB-PUB-21-526-OCIO-SCD-T </a>
 
-* A. Valsssi, E. Yazgan, J. McFayden, et al. "Challenges in Monte Carlo Event Generator Software for High-Luminosity LHC", <a href="https://link.springer.com/article/10.1007/s41781-021-00055-1"> Comput. Softw. Big Sci. 5 (2021) 12 </a>
+* A. Valassi, E. Yazgan, J. McFayden, et al. "Challenges in Monte Carlo Event Generator Software for High-Luminosity LHC", <a href="https://link.springer.com/article/10.1007/s41781-021-00055-1"> Comput. Softw. Big Sci. 5 (2021) 12 </a>
 
 * CMS Collaboration, "Extraction and validation of a new set of CMS PYTHIA8 tunes from underlying-event measurements", <a href="https://arxiv.org/abs/1903.12179"> arXiv:1903.12179 </a>, <a href="https://link.springer.com/article/10.1140%2Fepjc%2Fs10052-019-7499-4"> Eur. Phys. J. C 80 (2020) 4</a>.
 
@@ -34,6 +34,7 @@ Papers and documents related to event generators:
 
 * E. Yazgan, "Quantum Chromodynamics Monte Carlo Tuning Studies in CMS", <a href="https://arxiv.org/abs/1906.09952"> arXiv:1906.09952 [hep-ex] </a>, in the proceedings of XXVII International Workshop on Deep-Inelastic Scattering and Related Subjects - DIS2019, 8-12 April 2019, Torino, Italy Report number: CMS CR-2019/076, <a href="https://pos.sissa.it/352/080/"> PoS(DIS2019)080 </a>.
 
+* J. R. Andersen et al. "Les Houches 2017: Physics at TeV Colliders Standard Model Working Group Report", <a href="https://arxiv.org/abs/1803.07977"> arXiv:1803.07977 [hep-ph] </a>
 
 Presentations related to event generators:
 
