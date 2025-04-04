@@ -9,7 +9,7 @@
 - title: Academic Interests
   type: nested_list
   contents:
-    - title: high-energy physics; top quark; standard model; Higgs boson; physics generators and modelling; calorimetry; high energy astrophysics, computational physics
+    - title: high-energy physics; top quark; standard model; Higgs boson(s); physics generators and modelling; calorimetry; high energy astrophysics, computational physics
 
 - title: Publications
   type: nested_list
@@ -23,7 +23,7 @@
       institution: CERN, Geneva, Switzerland
       year: 2007 - present
       
-    - title: Assistant Fellow
+    - title: Research Faculty Member (Assistant Fellow)
       institution: National Taiwan University, Taipei, Taiwan
       year: 2020 - present
       
@@ -212,6 +212,15 @@
       items:
         - Hadron Calorimeter (HCAL)
 
+- title: Software
+  type: list
+  contents:
+    - <u>Programming Languages:</u> C++, Python, ROOT, R, Fortran, Bash
+    - <u>Software:</u> CMSSW, ROOT, Git, SVN, JIRA, Mathematica, Event generators
+    - <u>Operating Systems:</u> Linux, MacOS
+    - <u>Other:</u> LaTeX, HTML/CSS, Markdown, Visual Studio Code
+    - <u>Data Analysis:</u> ROOT, Python, R, Jupyter Notebook
+    - <u>Data Visualization:</u> ROOT, Python, R
 - title: Education
   type: time_table
   contents:
