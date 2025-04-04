@@ -215,12 +215,10 @@
 - title: Software
   type: list
   contents:
-    - <u>Programming Languages:</u> C++, Python, ROOT, R, Fortran, Bash
-    - <u>Software:</u> CMSSW, ROOT, Git, SVN, JIRA, Mathematica, Event generators
-    - <u>Operating Systems:</u> Linux, MacOS
-    - <u>Other:</u> LaTeX, HTML/CSS, Markdown, Visual Studio Code
-    - <u>Data Analysis:</u> ROOT, Python, R, Jupyter Notebook
-    - <u>Data Visualization:</u> ROOT, Python, R
+    - Programming Languages: Python, C/C++, Fortran, ROOT, R, Bash
+    - Software: CMSSW, Git, SVN, JIRA, Mathematica, Event generators
+    - Operating Systems: Linux, MacOS
+    - Other: LaTeX, HTML/CSS, Markdown, Visual Studio Code, Jupyter Notebook
 - title: Education
   type: time_table
   contents:
