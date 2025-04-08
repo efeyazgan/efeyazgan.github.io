@@ -5,6 +5,7 @@ title: science communication
 description: 
 nav: true
 ---
+* 4/5 Midterm Report on Decadal Mission — 2025: Towards the New Physics Higgs/Flavour Era, Efe Yazgan, Ting-Hsiang Hsu, Gouranga Kole, Agostino de Iorio, et al. 
 * [The best non-technical books to get interested in knowing the Universe published in Shepherd.com](https://shepherd.com/best-books/non-technical-books-to-get-interested-in-knowing-t)
 * Midterm Report on Decadal Mission: Towards the New Physics Higgs/Flavor Era, E. Yazgan et al. poster in ASP March 2024 meeting, Taiwan. 
 * [Hunting the Higgs Boson Siblings with Top Quarks](https://cms.cern/news/hunting-higgs-boson-siblings-top-quarks), CMS Physics Briefing, 23 August 2023.
