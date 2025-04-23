@@ -2,7 +2,7 @@
 layout: page
 title: Calorimetry
 description: 
-img: assets/img/efe_lagrangian.png
+img: assets/img/ECAL_HCAL.png
 importance: 3
 category: high energy physics
 ---
