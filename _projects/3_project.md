@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Search for new Yukawa Couplings at the LHC with Heavy Quarks
-description: Funded by National Science and Technology Council (NSTC), Taiwan
+description: Funded by National Taiwan University and National Science and Technology Council (NSTC), Taiwan
 img: assets/img/extrayukawa.png
 importance: 2
 category: high energy physics
