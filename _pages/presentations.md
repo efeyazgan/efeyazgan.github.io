@@ -39,6 +39,7 @@ nav: true
 * Search for a Standard Model Higgs Boson in CMS via Vector Boson Fusion in the H → WW → ℓνℓν Channel, E. Yazgan, et al.,  Invited poster presentation at the *XXIII International Symposium on Lepton and Photon Interactions at High Energy (LP07)* Aug 13-18, 2007 in Daegu, Korea.
 
 ### Talks
+* [Top quark properties in CMS: tt spin density matrix, quantum entanglement, and quantum magic](https://indico.in2p3.fr/event/33627/contributions/154954/attachments/94034/144168/EPS2025_top_properties_Marseille_efeyazgan_v1.pdf), E. Yazgan for CMS Collaboration, 7-11 July 2025, EPS-HEP Conference, Marseille, France. 
 * [Harmony between ATLAS and CMS (in systematic uncertainty estimations)](https://indico.cern.ch/event/1092350/contributions/4620407/), E. Yazgan (presenter), E. Palencia Cortezon, A. Knue, D. Hirschbul, at the LHC TOP WG Meeting, 1-3, December 2021, Online, CERN, Geneva, Switzerland.
 * [Modelling the data at the LHC](https://indico.lip.pt/event/592/sessions/496/#20210908), E. Yazgan for the ATLAS and CMS Collaborations, at [PANIC2021 (22nd Particles and Nuclei International Conference](https://indico.lip.pt/event/592/) (online), 5-10 September 2021, Lisbon, Portugal. 
 * [QCD Monte Carlo model tuning studies with CMS data at 13 TeV](https://indico.cern.ch/event/749003/contributions/3319993/attachments/1828109/2992656/yazgan_DIS2019.pdf), E. Yazgan for the CMS Collaboration, at [27th Workshop on Deep-Inelastic Scattering and Related Subjects - DIS2019](https://indico.cern.ch/event/749003/), 8-12 April, Torino, Italy
