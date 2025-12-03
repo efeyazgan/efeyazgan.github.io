@@ -245,9 +245,3 @@
       year: 2000
       description:
         - Special undergraduate advanced physics program
-
-
-- title: Other Interests
-  type: list
-  contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
