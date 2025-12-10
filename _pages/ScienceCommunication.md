@@ -5,6 +5,7 @@ title: science communication
 description: 
 nav: true
 ---
+* Translation of [Particle Physics for Babies](https://louiecorpe.com/particle-physics-for-babies/) to Turkish with Y. Uzunefe Yazgan.
 * 4/5 Midterm Report on Decadal Mission — 2025: Towards the New Physics Higgs/Flavour Era, Efe Yazgan, Ting-Hsiang Hsu, Gouranga Kole, Agostino de Iorio, et al. poster in ASP March 2024 meeting, Taiwan. 
 * [The best non-technical books to get interested in knowing the Universe published in Shepherd.com](https://shepherd.com/best-books/non-technical-books-to-get-interested-in-knowing-t)
 * Midterm Report on Decadal Mission: Towards the New Physics Higgs/Flavor Era, E. Yazgan et al. poster in ASP March 2024 meeting, Taiwan. 
@@ -25,8 +26,7 @@ nav: true
    * Astroparticle Physics [part I](https://indico.cern.ch/event/496615/contributions/1175382/attachments/1227551/1926513/Astroparcacik_2016_bolum1.pdf), [part II](https://indico.cern.ch/event/496615/contributions/1175405/attachments/1227543/1926516/Astroparcacik_2016_bolum2.pdf), 28 June 2016.
    * [Astroparticle Physics](https://indico.cern.ch/event/344432/contributions/1743183/attachments/678198/931760/Astroparcacik.pdf), 27 January 2015.
 * CERN Cosmology Questionnaire, Turkish translation, 2017.
-* [CMS Experiment at CERN Introduction Video](https://www.youtube.com/watch?v=S99d9BQmGB0), Turkish sub-titles, B. Akgun, S. Sekmen, E.
-Yazgan, 2016
+* [CMS Experiment at CERN Introduction Video](https://www.youtube.com/watch?v=S99d9BQmGB0), Turkish sub-titles, B. Akgun, S. Sekmen, E. Yazgan, 2016
 * Albert Einstein and Relativity for Kids, Scientific advisor for the Turkish translation of the book, TUBITAK, 2015.
 <!---- * [Turkish Scientists at CERN](https://www.sozcu.com.tr/egitim/cerndeki-turk-bilimadamlari.html) , published in the journal Sozcu, 23 February 2005. ---->
 * Appeared in [Old School Electroweak](https://www.fnal.gov/pub/today/archive/archive_2012/today12-08-03.html) , in CMS Result of the Month in Fermilab Today, 3 August 2012.
