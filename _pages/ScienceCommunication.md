@@ -5,7 +5,7 @@ title: science communication
 description: 
 nav: true
 ---
-* Translation of [Particle Physics for Babies](https://louiecorpe.com/particle-physics-for-babies/) to Turkish with Y. Uzunefe Yazgan.
+* Translation of [Particle Physics for Babies](https://louiecorpe.com/particle-physics-for-babies/) (by Louie D. Corpe) to Turkish with Y. Uzunefe Yazgan.
 * 4/5 Midterm Report on Decadal Mission — 2025: Towards the New Physics Higgs/Flavour Era, Efe Yazgan, Ting-Hsiang Hsu, Gouranga Kole, Agostino de Iorio, et al. poster in ASP March 2024 meeting, Taiwan. 
 * [The best non-technical books to get interested in knowing the Universe published in Shepherd.com](https://shepherd.com/best-books/non-technical-books-to-get-interested-in-knowing-t)
 * Midterm Report on Decadal Mission: Towards the New Physics Higgs/Flavor Era, E. Yazgan et al. poster in ASP March 2024 meeting, Taiwan. 
