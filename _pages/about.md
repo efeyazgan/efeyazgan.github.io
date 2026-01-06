@@ -9,7 +9,7 @@ profile:
   image: prof_pic.jpg
   address: >
     <p>CERN EP-UCM </p>
-    <p> Bat 653/1-005 C00210, </p>
+    <p> Bat 42/2-031 Z13620, </p>
     <p> 1 Esplanade des Particules, </p>  
     <p> CH 1211 Geneva 23, </p>
     <p>Switzerland</p>
