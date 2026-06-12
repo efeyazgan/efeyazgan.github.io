@@ -139,6 +139,12 @@
 - title: Reviewer, Committees, Consultant/Scientific Advisory, Conference and Workshop tasks
   type: time_table
   contents:
+    - year: 2026 - present
+        items:
+          -  Review Committee Chair (for a CMS generator physics analysis) 
+    - year: 2024 - 2026
+        items:
+          -  Review Committee Chair (for a CMS top quark analysis) 
     - year: 2012 - present
       items:
         - CMS Analysis Review Committees for > 20 Top, Standard Model measurements, Higgs, new physics searches, and event modeling studies
@@ -191,12 +197,18 @@
       items:
         - Operations research committee member for Izmir High Energy Physics Workshop; New Physics at the LHC and Turkey-CERN relations
   
-- title: Additional Funding/Projects
+- title: Funding/Projects (incomplete list)
   type: time_table
   contents:
+    - year: 2025 – 2027
+      items:
+        - Co‑PI Decadal Mission for the New Higgs/Flavor Physics Era of NSTC Grant 114‑2639‑M‑002‑007
+    - year: 2024 – 2025
+      items:
+        - Co‑PI Decadal Mission for the New Higgs/Flavor Physics Era of NSTC Grant 113‑2639‑M‑002‑006
     - year: 2021 - 2023
       items:
-        - Principal Investigator of Search for new Yukawa couplings at the LHC with heavy quarks, Taiwan Ministry of Science and Technology Grant 110-2112-M-002-017
+        - Principal Investigator (PI) of Search for new Yukawa couplings at the LHC with heavy quarks, Taiwan Ministry of Science and Technology Grant 110-2112-M-002-017
     - year: 2018 - 2021
       items:
         - MC Observer to COST Action Vector Boson Scattering Action Network <a href="http://www.cost.eu/COST_Actions/ca/CA16108" target="_blank">COST Action CA16108 </a> representing Institute of High Energy Physics, Chinese Academy of Sciences
