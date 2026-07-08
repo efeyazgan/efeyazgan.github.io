@@ -27,6 +27,7 @@ nav: true
 * [The CMS barrel calorimeter response to particle beams from 2 GeV/c to 350 GeV/c](http://agenda.infn.it/getFile.py/access?contribId=40&sessionId=28&resId=0&materialId=slides&confId=352), E. Yazgan for the CMS ECAL and HCAL Collaborations,  at the *XIII International Conference on Calorimetry in High Energy Physics (CALOR 2008)* in Pavia, 26-30 May 2008, Italy.
 
 ### Invited Talks, Lectures and Posters
+* [Event engineering techniques for small systems in CMS](https://indico.cern.ch/event/1657086/contributions/7174754/), E. Yazgan in [EMMI Workshop: QCD Challenges from pp to AA collisions](https://indico.cern.ch/event/1657086/), 6-10 July 2026 Torino, Italy. 
 * [Event Generators in CMS](https://indico.cern.ch/event/695320/timetable/), E. Yazgan, in [CMS Heavy Flavor Tagging Workshop 2018](https://indico.cern.ch/event/695320/), 11-13 April 2018, Vrije Universiteit Brussel, Belgium.
 * [Top Quark Modelling in CMS](https://indico.cern.ch/event/505065/sessions/194988/#20160922), E. Yazgan, in LHC Days in Split, 19-24 September 2016, Split, Crotia.
 * [Highlights of Top Physics Results from CMS at LHC Run I](http://efe.web.cern.ch/efe/yazgan_IAP2015.pdf), E. Yazgan, in Fundamental Interactions - be and IAP Meeting, 19 June 2015, Universite Libre de Bruxelles, Brussels, Belgium.
