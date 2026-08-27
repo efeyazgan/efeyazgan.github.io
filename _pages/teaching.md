@@ -7,7 +7,7 @@ nav: true
 ---
 
 ### Lectures
-
+* Top quark lectures in [1. Biricik Bilim High Energy Physics Summer School](https://biricikbilim.com/etkinlikler/yuksek-enerji-fizigi-yaz-okulu-2026), Zoom, Turkey. 
 * Lectures in CERN teacher's programme, Geneva, Switzerland:
    * [Gravitation and Cosmology](https://indico.cern.ch/event/853526/contributions/3715355/attachments/1978331/4613295/Astroparcacik_2020_bolum2.pdf) , 30 January 2020. 
    * [Astroparticle Physics](https://indico.cern.ch/event/853526/contributions/3715355/attachments/1978331/4613295/Astroparcacik_2020_bolum2.pdf) , 30 January 2020.
@@ -39,6 +39,7 @@ nav: true
    * N. Bulte, [Search for Scalar Top Quark Partners and Parton Shower Tuning in Modelling Top Quark Pairs](https://libstore.ugent.be/fulltxt/RUG01/002/272/585/RUG01-002272585_2016_0001_AC.pdf), **Master's Thesis**, Ghent University, 2016. 
    * K. Beernaert, [Measurement of Spin Correlations in $$t\overline{t}$$ Systems in the muon+jets Channel using a Matrix Element Method with the CMS Detector at the LHC](https://inspirehep.net/literature/1429571), **PhD Thesis*, Ghent University, 2015
 * As mentor
+   * T.-H. Hsu, *Search for extra Higgs bosons and Yukawa couplings in top quark final states*, **PhD Thesis**, National Taiwan University, 2027.  
    * M. O. Sahin, *Search for Z' via Forward Backward Asymmetry in Dielectron Channel with the CMS Detector at the Large Hadron Collider*, **Master's Thesis**, Middle East Technical University, 2012.
    * Y.  J. Roh, *Measurement of the Forward-Backward Asymmetry in $$\gamma/Z$$ Boson to Dilepton Events in Compact Muon Solenoid at a Center-of-mass Energy of 7 TeV*, **PhD Thesis**, Texas Tech University, 2011.  
    * B. Bilin, *Production of Z+Jet Events and HF Jet Energy Scale Calibration at 7 TeV in the CMS Experiment at LHC*, **Master's Thesis**, Middle East Technical University,  2011.
