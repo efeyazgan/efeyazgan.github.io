@@ -83,6 +83,7 @@ nav: true
 * Stability of Carbon Nanotoroids, E. Yazgan (presenter), E. Tasci, O.B. Malcioglu, and S. Erkoc,  at the NATO-Advance Study Institute (ASI) Nanoengineered Nanofibrous Materials September 1-12, 2003, Belek-Antalya, Turkey.
 
 ### Selected CMS Internal Presentations
+* "Truth" information in CMS samples (for the physics generators group) in the CMS Physics Days: Physics Modelling and MC Generators 8-9 September 2026, CERN, Switzerland.
 * "Truth" information in CMS samples (for the physics generators group) in the NGT Workshop: what's the truth?, 2-4 March 2026, CERN, Switzerland.
 * News from Higgs Hunting 2024 (Orsay/Paris) in the Beyond 2 Generations General Meeting, 1 October 2024, CERN, Switzerland. 
 * Uncertainties from Parton Shower Codes, Deep Dive on Modeling Uncertainties, 15 September 2023, CERN, Switzerland.
