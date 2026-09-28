@@ -5,7 +5,8 @@ title: science communication
 description: 
 nav: true
 ---
-* Translation of [Particle Physics for Babies](https://louiecorpe.com/particle-physics-for-babies/) (by Louie D. Corpe) to Turkish with Y. Uzunefe Yazgan.
+* Top quark physics lectures ([lecture 1](https://www.youtube.com/watch?v=Bui-ELwgyvI&pp=ygUNYmlyaWNpayBiaWxpbQ%3D%3D) and [lecture 2](https://www.youtube.com/watch?v=r9mQvaX4xmk&pp=ygUNYmlyaWNpayBiaWxpbQ%3D%3D)) in Biricik Bilim Online High Energy Physics School, 24-29 August 2026. 
+* Translation of the book [Particle Physics for Babies](https://louiecorpe.com/particle-physics-for-babies/) (by Louie D. Corpe) to Turkish with Y. Uzunefe Yazgan.
 * 4/5 Midterm Report on Decadal Mission — 2025: Towards the New Physics Higgs/Flavour Era, Efe Yazgan, Ting-Hsiang Hsu, Gouranga Kole, Agostino de Iorio, et al. poster in ASP March 2024 meeting, Taiwan. 
 * [The best non-technical books to get interested in knowing the Universe published in Shepherd.com](https://shepherd.com/best-books/non-technical-books-to-get-interested-in-knowing-t)
 * Midterm Report on Decadal Mission: Towards the New Physics Higgs/Flavor Era, E. Yazgan et al. poster in ASP March 2024 meeting, Taiwan. 
