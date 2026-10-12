@@ -7,6 +7,8 @@ nav: true
 ---
 
 ### Plenary Talks
+* [Discussion points and updates from
+CMS](https://indico.cern.ch/event/1714588/contributions/7281480/attachments/3355719/6018108/lpcc_mc_wg_Oct2026_eyazgan.pdf), E. Yazgan, at the [LHC Monte Carlo WG plenary meeting](https://indico.cern.ch/event/1714588/timetable/), 5-6 October 2026, CERN, Geneva, Switzerland.
 * [Searches for Additional Scalar Bosons with the CMS Experiment](https://indico.ijclab.in2p3.fr/event/10259/contributions/32979/attachments/22677/34612/HiggsHunting2024_eyazgan_15m.pdf), E. Yazgan for the CMS Collaboration, at the [*Higgs Hunting 2024* Workshop](https://indico.ijclab.in2p3.fr/event/10259/), 23-25 September, 2024, Orsay and Paris, France
 * [ATLAS and CMS Top Quark Rare Searches (Flavor Changing Neutral Currents)](https://indico.cern.ch/event/1346940/contributions/5785469/attachments/2853812/4990313/Yazgan_SMLHC2024.pdf), E. Yazgan for the ATLAS and CMS Collaborations, at the *Standard Model at the LHC 2024* Workshop, 7 - 10 May, 2024, Rome, Italy.  
 * [CMS Highlight talk: Search for extra Higgs bosons through same-sign top-quark production in association with an extra jet ](https://indico.cern.ch/event/1328004/contributions/5663614/attachments/2762034/4810223/toplhcwg_29nov2023_eyazgan.pdf), E. Yazgan for the CMS Collaboration, at the *LHC TOP Working Group Meeting*, 29 Nov - 1 Dec, 2023, remote meeting. 
@@ -62,7 +64,7 @@ nav: true
 * [HCAL response: HB performance](https://indico.cern.ch/getFile.py/access?resId=0&materialId=slides&contribId=6&sessionId=1&subContId=0&confId=50961), E. Yazgan for the CMS HCAL Collaboration,  at the International CMS Workshop on Cosmic Ray Data Analysis, March 11-13 2009, Torino, Italy.
 * CSA07(2007 Computing, Software, and Analysis Challenge) HCAL Calibration, E. Yazgan for the CMS HCAL Collaboration,  at the Paris Workshop for Particle Flow and Tau ID at L'Observatoire de Paris, 19 Oct. 2007, Paris, France.
 * [Neutrino Emission During Stellar Collapse](https://zenodo.org/record/4275317), E. Yazgan,  at the Summer School on Neutrino Physics and Astrophysics, Feza Gursey Institue, (2002), Istanbul, Turkey.
-* [Comparison of the Models to Explain Anomalous X-ray Pulsars and Soft Gamma Repeaters](https://zenodo.org/record/4275295), at the Summer School on Neutrino Physics and Astrophysics, Feza Gursey Institue, (2002), Istanbul, Turkey.
+* Comparison of the Models to Explain Anomalous X-ray Pulsars and Soft Gamma Repeaters](https://zenodo.org/record/4275295), at the Summer School on Neutrino Physics and Astrophysics, Feza Gursey Institute, (2002), Istanbul, Turkey.
 * Electron Distribution in the Galaxy and Pulsar Distances, E. Yazgan , at the National Astronomy Meeting, Antalya, September 2002.
 * Magnetar Phenomena at the National Astronomy Meeting, E. Yazgan,  Antalya, September 2002.
 * Do AXPs, SGRs and Radio Pulsars Accrete?, E. Yazgan,  at the National Astronomy Meeting, Antalya, September 2002.
@@ -106,7 +108,7 @@ nav: true
 * [Top Quark and Asymmetries at Colliders](https://efe.web.cern.ch/efe/for_webpage/10421505_1538250273125980_657944995341239235_n.jpg) at the Middle East Technical University (METU), December 26, 2014, Ankara, Turkey.
 * Asymmetries at Colliders at the Ghent University (UGent), September 3, 2014, Gent, Belgium.
 * [Early Z Boson Measurements at CMS in pp Collisions at 7 TeV](http://llr.in2p3.fr/spip.php?page=view_semin&seminID=79) at the Le Laboratoire Leprince-Ringuet (LLR), Ecole Polytechnique, February 21, 2011, Palaiseau, France.
-* [Early Z Boson Measurements at CMS in pp Collisions at 7 TeV](http://www.ipnl.in2p3.fr/spip.php?article1177) at the Institut de Physique Nucl aire de Lyon (IPNL), January 19, 2011, Lyon, France.
+* [Early Z Boson Measurements at CMS in pp Collisions at 7 TeV](https://llr.in2p3.fr/services/llr_seminaires/upload/yazgan_LLR_2011_public.pdf) at the Le Laboratoire Leprince-Ringuet (LLR), Ecole Polytechnique, February 13, 2012, Palaiseau, France.
 * Electroweak Bosons at CMS in pp Collisions at 7 TeV at the Middle East Technical University (METU), September 13, 2010, Ankara, Turkey.
 * First LHC Beam and Cosmic Muons in CMS at the Middle East Technical University (METU), March 30, 2009, Ankara, Turkey.
 * Search for the Higgs Boson at the Middle East Technical University (METU), 1 July 2006, Ankara, Turkey. 
