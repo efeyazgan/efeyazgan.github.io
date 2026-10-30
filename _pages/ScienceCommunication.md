@@ -34,10 +34,10 @@ nav: true
 * Selected Contributions to the CMS Experiment at the LHC from Past and Present Members of the METU High Energy Physics Group, Poster for CERN: Accelerating Science Exhibition, 2 April - 8 July 2012, METU, Ankara, Turkiye.
 * Interview about CERN, 100 Turkish Scientists Working Abroad and the Lost Economic Potential of Turkiye, published in the TurkishTime, January 2012.
 * The Turks after the Great Mystery, published in the journal Hurriyet Kampus, 18 February 2011.
-* [Interview about CERN](http://www.radikal.com.tr/hayat/dev-deneyin-turk-arastirmacilari-1037654/), published in the journal Radikal, 24 January 2011 and Matematik Dunyasi, 86 (2011) 20.
-* Appeared in [Rediscovering the Weak Force](http://www.fnal.gov/pub/today/archive/archive_2010/today10-07-09.html) in CMS Result of the Month in Fermilab Today, 9 July 2010.
+* Interview about CERN, published in the journal Radikal, 24 January 2011 and Matematik Dunyasi, 86 (2011) 20.
+* Appeared in Rediscovering the Weak Force in CMS Result of the Month in Fermilab Today, 9 July 2010.
 * Interview about Turkiye’s involvement at CERN, published in the journal Turkish Daily News, 2009.
 * Interviews on the LHC First Beam Day on CNN Turk, 9-10 September 2008.
-* [Interview about CERN](http://www.radikal.com.tr/turkiye/yuzyilin-fizik-deneyi-801842/), Experiment of the Century, published in the journal Radikal, 1 January 2007.
+* Interview about CERN, Experiment of the Century, published in the journal Radikal, 1 January 2007.
 * *Can Science Explain Everything? Anything?* by S. Weinberg, translation from English to Turkish of the article published in the journal ’Bilim ve Teknik (Science and Technics)’ as ’Bilim Herseyi Aciklayabilir mi?', Y. Uzunefe Yazgan and E. Yazgan, March 2005.
 * Physics Department Outreach Days for High School Students, 2002 and 2003. 
