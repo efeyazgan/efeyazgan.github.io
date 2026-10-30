@@ -20,16 +20,16 @@ Papers and documents related to Standard Model measurements:
 * E. Yazgan and P. Silva, <a href="https://www.mdpi.com/books/book/9016-top-quark-at-the-new-physics-frontier"> "Top Quark at the New Physics Frontier" ISBN978-3-7258-0614-0, Universe MDPI </a>
 * CMS Collaboration, "Study of the underlying event in top quark pair production in pp collisions at 13 TeV", <a href="https://link.springer.com/article/10.1140%2Fepjc%2Fs10052-019-6620-z"> Eur. Phys. J. C 79 (2019) 123 </a>.
 * E. Yazgan for the CMS Collaboration, Top Quark Properties Measurements in CMS, Nuovo Cim. C 39 (2017) 341.
-* CMS Collaboration, "Measurement of Spin Correlations in ttbar Production using the Matrix Element Method in the Muon+Jets Final State in pp Collisions at sqrt(s) = 8 TeV", <a href="http://www.sciencedirect.com/science/article/pii/S0370269316301526"> Phys. Lett. B 758 (2016) 321 </a>
+* CMS Collaboration, "Measurement of Spin Correlations in ttbar Production using the Matrix Element Method in the Muon+Jets Final State in pp Collisions at sqrt(s) = 8 TeV", <a href="https://www.sciencedirect.com/science/article/pii/S0370269316301526"> Phys. Lett. B 758 (2016) 321 </a>
 * E. Yazgan for the CMS Collaboration, Measurement of Top Quark Properties in Single Top-Quark Production at CMS, Nucl. Part. Phys. Proc. 273-275 (2016) 2142. 
 * J. R. Andersen et al. "Les Houches 2017: Physics at TeV Colliders Standard Model Working Group Report", <a href="https://arxiv.org/abs/1803.07977"> arXiv:1803.07977 [hep-ph] </a>
 * E. Yazgan for the CMS Collaboration, Top Quark Measurements in CMS, Nucl. Part. Phys. Proc. 258-259 (2015) 117
-* CMS Collaboration, "Forward-Backward Asymmetry of Drell-Yan Lepton Pairs in pp Collisions at sqrt(s) = 7 TeV", <a href="http://www.sciencedirect.com/science/article/pii/S0370269312011483"> Phys. Lett. B 718 (2013) 752 </a>
+* CMS Collaboration, "Forward-Backward Asymmetry of Drell-Yan Lepton Pairs in pp Collisions at sqrt(s) = 7 TeV", <a href="https://www.sciencedirect.com/science/article/pii/S0370269312011483"> Phys. Lett. B 718 (2013) 752 </a>
 * E. Yazgan for the ATLAS and CMS Collaborations, Measurements of the top-quark properties at CMS, arXiv:1308.3338, CMS-CR-2013-077, CMS-CR-2013-077; CERN-CMS-CR-2013-077,
 * E. Yazgan for the CMS Collaboration, Measurements of the top-quark properties at the LHC, arXiv:1304.3324, CMS-CR-2013-077, CMS-CR-2013-077; CERN-CMS-CR-2013-077
 * E. Yazgan for the ATLAS, CDF, CMS, and D0 collaborations, Flavor changing neutral currents in top quark production and decay, arXiv:1312.5435, CMS-CR-2013-398, CMS CR-2013/398.
-* CMS Collaboration, "Measurement of the weak mixing angle with the Drell-Yan process in proton-proton collisions at the LHC", <a href="http://journals.aps.org/prd/abstract/10.1103/PhysRevD.84.112002"> Phys. Rev. D 84 (2011) 112002 </a>
-* E. Yazgan, J. Damgov et al. "Search for a standard model Higgs boson in CMS via vector boson fusion in the H to WW to lnulnu channel", <a href="http://link.springer.com/article/10.1140%2Fepjc%2Fs10052-007-0485-2"> Eur. Phys. J. C 53 (2008) 329 </a>
+* CMS Collaboration, "Measurement of the weak mixing angle with the Drell-Yan process in proton-proton collisions at the LHC", <a href="https://journals.aps.org/prd/abstract/10.1103/PhysRevD.84.112002"> Phys. Rev. D 84 (2011) 112002 </a>
+* E. Yazgan, J. Damgov et al. "Search for a standard model Higgs boson in CMS via vector boson fusion in the H to WW to lnulnu channel", <a href="https://link.springer.com/article/10.1140/epjc/s10052-007-0485-2"> Eur. Phys. J. C 53 (2008) 329 </a>
 
 
 Presentations related to Standard Model measurements:
